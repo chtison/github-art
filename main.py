@@ -3,7 +3,7 @@ from subprocess import run
 from argparse import ArgumentParser
 
 # Number of commit needed for every colors
-GITHUB_COLORS = [1, 5, 8, 13]
+GITHUB_COLORS = [1, 4, 5, 7]
 
 # List of (datetime.date.weekday, github_color)
 GALERY = {
